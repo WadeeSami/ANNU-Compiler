@@ -1,0 +1,8 @@
+43.789
+"This is a string"
+##Heloo This is a comment## if ( 
+void main ( )
+{
+	integer x = 123 ;
+}
+>=
